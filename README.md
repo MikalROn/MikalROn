@@ -2,6 +2,8 @@
 
 📄[Portifólio](https://mikalron.github.io/portifolio/) <em>*em desenvolvimento não abra!</em>
 
+✨[Certificados](https://github.com/MikalROn/certificados)
+
 🏆[vitrine dev](https://cursos.alura.com.br/vitrinedev/Heromon-9010)
 
 🎸[Músico full stack](https://open.spotify.com/intl-pt/artist/5Uvv8Xc3aFF7aUdOIOv1Bv?nd=1&dlsi=8f011fbbfea54621)
