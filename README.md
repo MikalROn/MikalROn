@@ -59,7 +59,7 @@ Tenho experiência em startups, projetos independentes e soluções open-source 
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikalROn&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikalROn&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikalROn&layout=compact&theme=tokyonight&hide=html,css,scss,shell,jupyter%20notebook)
 
 ---
 
