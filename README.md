@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/daniel-coelho90/)[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/MikalROn)[![PyPI](https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/KhijadHiliad/)[![E-mail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:heromon.9010@gmail.com)  
 
----
-
 ## 🚀 About Me  
 Sou **Desenvolvedor Back-End / Full Stack Django** e **Engenheiro de Software Júnior** com experiência sólida em:  
 
